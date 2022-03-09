@@ -1,0 +1,26 @@
+{
+  "name": "yummy-app-apii",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "dev": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vignesh-mediwave/yummy-app-apii.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vignesh-mediwave/yummy-app-apii/issues"
+  },
+  "homepage": "https://github.com/Vignesh-mediwave/yummy-app-apii#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
